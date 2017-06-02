@@ -1,0 +1,6 @@
+body {padding-top: 80px;}
+samp {white-space: pre;}
+#searchResults {
+  max-width: 380px;
+  overflow-x: auto;
+}
